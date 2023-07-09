@@ -206,7 +206,7 @@ const Home = ({navigation}) => {
           <Text
             style={{ paddingTop:5,marginLeft:20 ,justifyContent: 'center', alignContent: 'center' 
             ,fontSize: 12,}}>
-             Need some Home help?
+             Need some Home help? 
           </Text>
 
         </View>
