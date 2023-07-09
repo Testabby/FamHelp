@@ -14,7 +14,7 @@ const ServiceHome = ({ navigation }) => {
     <View style={styles.bgContainer}>
       <View style={{height:myHeight/6}}>
         <HeaderComp
-          Title={'Family Helper'}
+          Title={'Family Helper' }
           SubTitle={'All Services'}
         />
       </View>
