@@ -1,0 +1,95 @@
+/*
+ * Provides universal color configs used in the app.
+ *
+ *  100% — FF
+    95% — F2
+    90% — E6
+    85% — D9
+    80% — CC
+    75% — BF
+    70% — B3
+    65% — A6
+    60% — 99
+    55% — 8C
+    50% — 80
+    45% — 73
+    40% — 66
+    35% — 59
+    30% — 4D
+    25% — 40
+    20% — 33
+    15% — 26
+    10% — 1A
+    5% — 0D
+    0% — 00
+ */
+
+const AppColors = {
+  COLOR_PRIMARY_APP: 'rgb(220, 247, 237)',
+  COLOR_SECONDARY_APP: 'rgb(7,201,109)',
+  COLOR_ACCENT_APP: 'rgb(193,213,207)',
+  // COLOR_BACKGROUND_APP: 'rgb(255, 255, 255)',
+  SELECT_CARD: 'rgb(171, 255, 219)',
+  // COLOR_TEXT_APP: 'rgb(35, 35, 35)',
+  // COLOR_BORDER_APP: 'rgb(39, 61, 82)',
+  // COLOR_NOTIFICATION_APP: '#07bdb6',
+  WHITE_DIM: 'rgba(255,255,255,1)',
+  TEXT_GREY: 'rgb(154,168,162)',
+  WHITE: 'rgb(255,255,255)',
+  // LITE_ORANGE: '#F4DDA1',
+  // DARK_ORANGE: '#E9BB44',
+  LITE_BLACK_TEXT: '#4F4F4F',
+  LITE_GREY: '#4D4E5B',
+  LITE_GREY_OPOCITY: 'rgba(77, 78, 91, 0.5)',
+  TEXT_BLACK: 'rgba(77, 78, 91, 1)',
+  TEXT_MEDIUM_GREY: '#2F3033',
+  TEXT_DARK_GREY: '#12131A',
+  RED_ERROR: '#EE4A4A',
+  TEXT_LITE_GREY: '#333333',
+  GREY_VIEW: '#6E6E6E',
+  TEXT_SKIP: '#2C2E36',
+  TEXT_WELCOME_GREY: '#393A3D',
+  GREYISH: '#B8B8B8',
+  PASSWORD_GREY: '#A6A6A6',
+  GREEN_PASSWORD_TEXT: '#6FB250',
+  BLACK_TINT_COLOR: '#444444',
+  COLOR_SHADOW_HEADER_BLACK: 'rgba(0, 0, 0, 0.7)',
+  GREY_WHITE: '#C4C4C4',
+  DISABLE_TINT_GREY: '#A2A3AA',
+  BORDER_BLACK: '#AAAAAA',
+  BORDER_GREY: '#DEDEDE',
+  RED: '#CC1414',
+  BLUE: '#1E279B',
+  BROWN:'rgb(147,91,63)',
+  YELLOW:'rgb(255, 219, 36)',
+  THEME: '#CD9A16',
+  DARK_GREY: '#4B4B4B',
+  LITE_GREY1: '#5C5C5C',
+  TAB_BAR: '#2A2A2A',
+  DEMOCRATE_BLUE: '#1869B4',
+  BLACK_200: '#2D2D2D',
+  BLACK_600: '#848484',
+  BLACK_800: '#444444',
+  GREY_100: 'rgb(231, 231, 231)',
+  LINE_GREY: '#D0D0D0',
+  CARD_BG_GREY: '#C1C1C1',
+  HOME_BG: '#FFFFFF',
+  PHOTO_RING: '#1869B4',
+  NOTIFICATIONS_TOGGLE: '#DFAE30',
+  GREY: 'grey',
+  BUTTON_ORANGE_COLOR: '#E9BB44',
+  YELLOW: '#F3CC3F',
+  REPLICATION_RED: '#B42E18',
+  INDIPENDENT_GREY: '#818181',
+  LIGHT_ORANGE: '#FFF6DE',
+  LIGHT_GREEN: '#EBFFE4',
+  RadialGradient1: '#545558',
+  RadialGradient2: '#191A1E',
+  LinearGradient1: '#1869B4',
+  LinearGradient2: '#72BBFF',
+  TEXT_BG: '#EEEEEE',
+  NAME_TEXT_COLOR: '#282828',
+  LITE_GREY_RUNNING_FOR: '#A4A4A4',
+};
+
+export default AppColors;
